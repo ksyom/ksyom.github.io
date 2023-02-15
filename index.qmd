@@ -2,7 +2,7 @@
 title: "ksyom.github.io"
 ---
 
-This is my website where I can post random stuff!
+This is my website where I can post random stuff! It might get updated sometime in the future.
 
 This is a Quarto website.
 
